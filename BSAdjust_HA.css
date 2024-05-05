@@ -1,0 +1,72 @@
+.nav-link{
+/* color: #BBC4C3; */
+color: #F1FAEE;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+img{border:200px;}
+
+/* figure {
+
+  /* text-align: center; */
+  /* font-style: italic; */
+  /* font-size: smaller; */
+  /* text-indent: 0; */
+  /* border: thin silver solid; } */
+
+
+
+body{
+  /* font-family: 'Roboto Slab', serif; */
+  font-family: 'Source Sans Pro', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-family: 'Amiri', serif; */
+  /* background-color: coral; */
+}
+
+.grey_background{
+  background-color: coral;
+}
+
+.cardhead1{
+  font-size: 1.25em;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: 'Roboto Slab', serif;
+}
+
+li{
+  margin: 10px 0;
+}
+
+.card{
+  margin: 15px 15px 15px 15px;
+}
+
+.inline_link{
+  color: #383B3B;
+  /*text-decoration: underline;*/
+}
+
+.inline_link2{
+  color: #388CFB;
+  /*text-decoration: underline;*/
+}
+
+/* selected tag{
+  property: value;
+} */
+
+/* h1{
+  color: purple;
+} */
+
+/* #id{
+  font-size: 1em
+} */
